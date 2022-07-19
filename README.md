@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Movie Casts
+
+Desafio de projeto de criação de front-end totalmente componetizado em ReactJs 
+
+## Descrição
+
+O projeto consite em buscar um filme pelo nome e apresentar alguns detalhes do filme , o elenco completo e apresentação do trailer do filme .
+
+Foi consumida a API do IMDB .
+
+## ReactJs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
